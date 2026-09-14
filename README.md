@@ -6,7 +6,7 @@
 
 Étudiant en 3e année à l'IUT d'Orléans, je conçois des applications web et desktop en cherchant toujours à comprendre le problème avant d'écrire la solution.
 
-<a href="https://linkedin.com/in/erwann-bertili">
+<a href="https://www.linkedin.com/in/erwann-bertili-9419a2382">
 	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:bertilierwann5@gmail.com">
