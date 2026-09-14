@@ -18,10 +18,6 @@
 
 </div>
 
-<!--
-Pour ajouter une bannière ou un GIF, décommente et adapte cette ligne :
-<p align="center"><img src="./assets/ma-banniere.gif" alt="Bannière du profil" width="850"></p>
--->
 
 ## À propos de moi
 
@@ -44,7 +40,19 @@ Retrouvez les réalisations disponibles dans mes [repositories GitHub](https://g
 ## Ma stack
 
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,mysql,flask,bootstrap,git,github,linux,vscode" alt="Technologies utilisées" />
+	<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" /></a>
+	<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" /></a>
+	<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" /></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" /></a>
+	<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /></a>
+	<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" /></a>
+	<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" /></a>
+	<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" /></a>
+	<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>
+	<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" /></a>
+	<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" height="40" /></a>
 </p>
 
 **Méthodes et concepts :** programmation orientée objet · MVC · JDBC · SQLAlchemy · Scrum/Kanban · Git
