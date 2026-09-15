@@ -38,44 +38,58 @@ Retrouvez les réalisations disponibles dans mes [repositories GitHub](https://g
 
 ## Ma stack
 
-### Programming Languages
+<table>
+	<tr>
+		<td valign="top" width="33%">
 
-<p align="left">
+<h3>Programming Languages</h3>
+
+<p>
 	<a href="https://en.cppreference.com/w/c" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" height="40" /></a>
 	<a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /></a>
 	<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" /></a>
 	<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" /></a>
 </p>
+		</td>
+		<td valign="top" width="33%">
 
-### Front End
+<h3>Front End</h3>
 
-<p align="left">
+<p>
 	<a href="https://vuejs.org/" title="Vue.js"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="40" /></a>
 	<a href="https://getbootstrap.com/" title="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" /></a>
 	<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" /></a>
 </p>
+		</td>
+		<td valign="top" width="33%">
 
-### Mobile
+<h3>Mobile</h3>
 
-<p align="left">
+<p>
 	<a href="https://flutter.dev/" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40" /></a>
 </p>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" width="50%">
 
-### Database
+<h3>Database</h3>
 
-<p align="left">
+<p>
 	<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /></a>
 	<a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/htmx-auto.svg" alt="MariaDB" height="40" /></a>
 	<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
 	<a href="https://neo4j.com/" title="Neo4j"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jqlang-auto.svg" alt="Neo4j" height="40" /></a>
 </p>
+		</td>
+		<td valign="top" width="50%">
 
-### Frameworks & Other
+<h3>Frameworks &amp; Other</h3>
 
-<p align="left">
+<p>
 	<a href="https://www.djangoproject.com/" title="Django"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="40" /></a>
 	<a href="https://laravel.com/" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" height="40" /></a>
 	<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40" /></a>
@@ -83,6 +97,9 @@ Retrouvez les réalisations disponibles dans mes [repositories GitHub](https://g
 	<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" /></a>
 	<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" /></a>
 </p>
+		</td>
+	</tr>
+</table>
 
 **Méthodes et concepts :** programmation orientée objet · MVC · JDBC · SQLAlchemy · Scrum/Kanban · Git
 
@@ -91,12 +108,12 @@ Retrouvez les réalisations disponibles dans mes [repositories GitHub](https://g
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Bertili-Erwann&show_icons=true&theme=default&hide_border=true&title_color=C5A059&icon_color=C5A059&text_color=333333&bg_color=ffffff&locale=fr&cache_seconds=1800"
+		src="https://github-stats-extended.vercel.app/api?username=Bertili-Erwann&show_icons=true&theme=default&hide_border=true&title_color=C5A059&icon_color=C5A059&text_color=333333&bg_color=ffffff&locale=fr&cache_seconds=1800"
     alt="Statistiques GitHub d'Erwann"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertili-Erwann&layout=compact&theme=default&hide_border=true&title_color=C5A059&text_color=333333&bg_color=ffffff&locale=fr&cache_seconds=1800"
+		src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bertili-Erwann&layout=compact&theme=default&hide_border=true&title_color=C5A059&text_color=333333&bg_color=ffffff&locale=fr&cache_seconds=1800"
     alt="Langages les plus utilisés"
   />
 </div>
