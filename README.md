@@ -18,6 +18,10 @@
 
 </div>
 
+<a href="./CV-Erwann-Bertili.pdf">
+  <img src="https://img.shields.io/badge/Télécharger_mon_CV-C5A059?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Télécharger mon CV" />
+</a>
+
 ## À propos de moi
 
 - 🎓 En **3e année de BUT Informatique** à l'IUT d'Orléans
@@ -78,9 +82,9 @@ Retrouvez les réalisations disponibles dans mes [repositories GitHub](https://g
 		<td align="center" bgcolor="F6F8FA">
 			<strong>Database</strong><br /><br />
 			<a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /></a>
-			<a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/htmx-auto.svg" alt="MariaDB" height="40" /></a>
+			<a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mariadb-auto.svg" alt="MariaDB" height="40" /></a>
 			<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
-			<a href="https://neo4j.com/" title="Neo4j"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/jqlang-auto.svg" alt="Neo4j" height="40" /></a>
+			<a href="https://neo4j.com/" title="Neo4j"><img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/neo4j-auto.svg" alt="Neo4j" height="40" /></a>
 		</td>
 	</tr>
 </table>
